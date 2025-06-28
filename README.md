@@ -20,6 +20,8 @@ The goal: Turn raw transactional data into **actionable business insights** that
 | `Business_Report_RFM_EDA_partB.ipynb` | Full report on EDA + RFM segmentation |
 | `Workflow_partA.knime ` | KNIME workflow | 
 | `Workflow_partB.knime ` | KNIME workflow | 
+| `Sales_Data.xlsx` | Dataset for Part A | 
+|`dataset_group.csv`| Dataset for Part B |
 
 ---
 
